@@ -27,6 +27,7 @@
         android:layout_marginTop="3dp"
         android:layout_toEndOf="@+id/tvPoster"
         android:text="TextView"
+        android:textColor="@color/white"
         android:textSize="22sp"
         tools:text="Fast Furious Presents: Hobbs Shaw" />
 
@@ -39,6 +40,7 @@
         android:layout_marginTop="0dp"
         android:layout_toEndOf="@+id/tvPoster"
         android:text="TextView"
+        android:textColor="@color/white"
         android:textSize="12sp"
         tools:text="Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah." />
 </RelativeLayout>
